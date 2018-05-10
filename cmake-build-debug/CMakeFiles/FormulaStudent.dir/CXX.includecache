@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jonas/git/FormulaStudent/watchdog.cpp
+watchdog.h
+/home/jonas/git/FormulaStudent/watchdog.h
+
+/home/jonas/git/FormulaStudent/watchdog.h
+

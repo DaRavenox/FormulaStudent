@@ -1,0 +1,8 @@
+prefix=/home/jonas/catkin_ws/devel
+
+Name: listener_node
+Description: Description of listener_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jonas/catkin_ws/devel/lib 
+Requires: 
